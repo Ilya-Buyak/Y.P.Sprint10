@@ -100,6 +100,7 @@ html {
 	padding: 10px 0;
     box-sizing: border-box;
     font-size: 16px;
+    outline: none;
 }
 
 .form__button {
